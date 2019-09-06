@@ -8,6 +8,12 @@
 			"Name": "Tutorial",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
-		}
+		},
+		,
+    {
+      "Name": "TutorialEditor",
+      "Type": "Editor",
+      "LoadingPhase":  "PostEngineInit"
+    }
 	]
 }
