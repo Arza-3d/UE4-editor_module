@@ -9,6 +9,6 @@ public class TutorialEditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 
-		ExtraModuleNames.AddRange( new string[] { "Tutorial" } );
+		ExtraModuleNames.AddRange( new string[] { "Tutorial", "TutorialEditor"} );
 	}
 }
