@@ -9,19 +9,10 @@
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		},
-		,
-<<<<<<< HEAD
-    {
-      "Name": "TutorialEditor",
-      "Type": "Editor",
-      "LoadingPhase":  "PostEngineInit"
-    }
-=======
-      {
-        "Name": "TutorialEditor",
-        "Type": "Editor",
-        "LoadingPhase":  "PostEngineInit"
-      }
->>>>>>> 0f6d54c99d26aff577660a2fae63743f1099c25a
+		{
+			"Name": "TutorialEditor",
+			"Type": "Editor",
+			"LoadingPhase":  "PostEngineInit"
+		}
 	]
 }
