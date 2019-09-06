@@ -12,16 +12,16 @@ public class TurorialEditor : ModuleRules
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
-  //Only if you created the Public and Private folder paths
-      PublicIncludePaths.AddRange(
-        new string[]
-        {
-          "TutorialEditor/Public"
+        //Only if you created the Public and Private folder paths
+        PublicIncludePaths.AddRange(
+            new string[]
+            {
+              "TutorialEditor/Public"
         });
 
-      PrivateIncludePaths.AddRange(
-        new string[]
-        {
-            "TutorialEditor/Private"
+        PrivateIncludePaths.AddRange(
+            new string[]
+            {
+                "TutorialEditor/Private"
         });
 }
