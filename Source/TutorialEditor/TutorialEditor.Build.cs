@@ -24,4 +24,5 @@ public class TurorialEditor : ModuleRules
             {
                 "TutorialEditor/Private"
         });
+    }
 }
